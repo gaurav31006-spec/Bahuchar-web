@@ -38,7 +38,7 @@ export default function Contact() {
             <div className="info-box">
               <h4 style={{ textAlign: "left" }}>📍 Factory Location</h4>
 
-              <div  style={{ textAlign: "left" ,paddingLeft:"20px"}}>
+              <div style={{ textAlign: "left", paddingLeft: "20px" }}>
                 <a
                   href="https://maps.app.goo.gl/9AcynjtvvVb3vaeD8"
                   target="_blank"
@@ -87,7 +87,9 @@ export default function Contact() {
 
             <div className="info-box">
               <h4>🕒 Working Hours</h4>
-              <p>Mon - Sat : 7:00 AM - 10:00 PM</p>
+              <p> Mon - Sat : 7:30 AM - 7:30 PM
+                <br/>
+                Wednesday : Closed</p>
             </div>
 
           </div>
