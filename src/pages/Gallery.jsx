@@ -9,7 +9,9 @@ export default function Gallery() {
     "660d74d3-82e9-4088-8215-9c31e8c16173.png",
     "76d02168-c2a4-4048-b453-daafbe396526.png",
     "9adc8533-0887-4932-afc2-3b2a6beafa4e.png",
-    "e3afc567-dc2f-467d-bfbc-3b9c4464c20f.png"
+    "e3afc567-dc2f-467d-bfbc-3b9c4464c20f.png",
+    "public/e8117a1d-c555-43f3-943b-f4708376a822.png",
+    "public/6280ed17-9a9d-4cf4-b6b6-3ba1778af395.png"
   ];
 
   return (
